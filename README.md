@@ -1,6 +1,6 @@
 # Eon Ezy Terms & Conditions
 
-<h2>1.General</h2>
+<h2>General</h2>
 The Application provides access to an online platform (“Platform”) bringing together consumers, financial institutions, data partners and other partners willing to abide by the Terms and Conditions herein. Eon Ezy is merely a facilitator providing the Platform for any Person in need of financial products such as consumers, financial institutions, data partners and other partners, etc., including connecting Users for assistance regarding financial products. Eon Ezy merely facilitates a transaction between two such persons.
 
 <h2>Eligibility</h2>
