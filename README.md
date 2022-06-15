@@ -38,11 +38,11 @@ Your use of the service and all information, products and other content (Includi
 
 <h2>Limitation of Liability</h2>
 You agree that neither company or service provider nor any of their affiliates, account providers or any of their affiliates will be liable for any harms, which lawyers and courts often call direct, indirect, incidental, special, consequential or exemplary damages, including, but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses, even if company or service provider has been advised of the possibility of such damages, resulting from : 
-(i)The use or the inability to use the service.\n
-(ii)The cost of getting substitute goods and services.\n
+(i)The use or the inability to use the service.<p>
+(ii)The cost of getting substitute goods and services.<br>
 (iii)Any products, data, information or services purchased or obtained, or messages received, or transactions entered, through or from the service.\n
-(iv)Unauthorised access to or alteration of your transmissions or data.\n
-(v)Statements or conduct of anyone on the service.\n
+(iv)Unauthorised access to or alteration of your transmissions or data.
+(v)Statements or conduct of anyone on the service.
 (vi)The use, inability to use, unauthorised use, performance or non-performance of any third-party account provider site, even if the provider has been advised previously of the possibility of such damages. (vii)Any other matter relating to the service.
 
 <h2>Documents Policy</h2>
