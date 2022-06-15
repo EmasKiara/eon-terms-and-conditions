@@ -43,7 +43,8 @@ You agree that neither company or service provider nor any of their affiliates, 
 (iii)Any products, data, information or services purchased or obtained, or messages received, or transactions entered, through or from the service.<br>
 (iv)Unauthorised access to or alteration of your transmissions or data.<br>
 (v)Statements or conduct of anyone on the service.<br>
-(vi)The use, inability to use, unauthorised use, performance or non-performance of any third-party account provider site, even if the provider has been advised previously of the possibility of such damages. (vii)Any other matter relating to the service.
+(vi)The use, inability to use, unauthorised use, performance or non-performance of any third-party account provider site, even if the provider has been advised previously of the possibility of such damages.<br>
+(vii)Any other matter relating to the service.
 
 <h2>Documents Policy</h2>
 Eon Ezy does not return any customer documents including but not limited to IDs, Address proofs, and photographs. Eon Ezy may disclose the customer information/documents to credit agencies/bureaus, or any other financial institution/third party that may need the information as deemed necessary by Eon Ezy/any other regulatory/legal authority. In this regard, customers waive the privilege of privacy.
